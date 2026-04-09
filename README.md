@@ -12,7 +12,7 @@ This project demonstrates the fundamentals of web development, DOM manipulation,
 - Classic 3x3 Tic Tac Toe board  
 - Two-player mode (Player X vs Player O)  
 - Automatic win detection and draw handling  
-- Clean and responsive UI with CSS styling  
+- Clean and responsive UI with CSS styling   
 - Restart/Reset functionality  
 
 ---
