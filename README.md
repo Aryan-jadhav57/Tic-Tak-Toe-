@@ -28,7 +28,7 @@ This project demonstrates the fundamentals of web development, DOM manipulation,
    ```bash
    cd tic-tac-toe
    ```
-3. Open `index.html` in your browser.
+3. Open `index.html` in your browser. 
 
 ---
 
