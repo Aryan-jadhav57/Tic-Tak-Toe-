@@ -41,7 +41,7 @@ boxes.forEach((box) => {
 
     checkWinner ();
   })
-})
+}) 
 
 const disableBoxes = () => {
   for (let box of boxes ) {
